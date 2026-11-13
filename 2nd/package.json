@@ -1,0 +1,21 @@
+{
+  "name": "spotify",
+  "version": "1.0.0",
+  "description": "This is a spotify clone for my app",
+  "keywords": [
+    "spotify",
+    "music"
+  ],
+  "license": "ISC",
+  "author": "Affan",
+  "type": "commonjs",
+  "main": "\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^12.2.2",
+    "slugify": "^1.6.9"
+  }
+}
